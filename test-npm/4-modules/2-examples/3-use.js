@@ -1,0 +1,1 @@
+console.log(require('./3-string'));

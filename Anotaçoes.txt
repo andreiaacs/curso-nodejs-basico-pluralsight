@@ -1,0 +1,3 @@
+Anotaçoes Curso Node - PluralSight
+
+REPL (terminal node)

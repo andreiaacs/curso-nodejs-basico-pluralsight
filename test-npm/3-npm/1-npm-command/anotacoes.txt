@@ -1,0 +1,14 @@
+Versioning (SemVer)
+
+4.2.0
+4 - Major - Breaking Changes
+2 - Minor - Backward Compatible
+0 - Patch - Bug Fixes
+
+~ 1.2.3
+O caracter ~ representa o ranger de instalação, instala versões 1.2.x -> onde x >= 3
+
+^ 1.2.3
+Corresponde a qualquer 1.x.y -> onde x >= 2 e y pode ser qualquer coisa
+
+semver.npmjs.com

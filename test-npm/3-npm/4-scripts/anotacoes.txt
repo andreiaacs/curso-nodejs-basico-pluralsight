@@ -1,0 +1,3 @@
+npx -> executa as bibliotecas localmente
+
+exemplo: jest instalado localmente nao funciona com comando jest só configurado no npm test, mas se rodarmos npx jest, ele funciona corretamente.
